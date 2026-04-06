@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nechi\\Desktop\\Class\\GitTest\\",
+  "WorkspaceRootPath": "C:\\Users\\nechi\\Desktop\\Home\\GITTest\\GitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAA7D8AF-CF24-45B5-A6D9-5EBA5FFCB455}|GItTest.vcxproj|C:\\Users\\nechi\\Desktop\\Class\\GitTest\\gittest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FAA7D8AF-CF24-45B5-A6D9-5EBA5FFCB455}|GItTest.vcxproj|C:\\Users\\nechi\\Desktop\\Home\\GITTest\\GitTest\\gittest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FAA7D8AF-CF24-45B5-A6D9-5EBA5FFCB455}|GItTest.vcxproj|solutionrelative:gittest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "gittest.cpp",
-              "DocumentMoniker": "C:\\Users\\nechi\\Desktop\\Class\\GitTest\\gittest.cpp",
+              "DocumentMoniker": "C:\\Users\\nechi\\Desktop\\Home\\GITTest\\GitTest\\gittest.cpp",
               "RelativeDocumentMoniker": "gittest.cpp",
-              "ToolTip": "C:\\Users\\nechi\\Desktop\\Class\\GitTest\\gittest.cpp",
+              "ToolTip": "C:\\Users\\nechi\\Desktop\\Home\\GITTest\\GitTest\\gittest.cpp",
               "RelativeToolTip": "gittest.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-06T15:42:59.478Z",
               "EditorCaption": ""
