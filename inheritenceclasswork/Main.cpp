@@ -2,7 +2,7 @@
 #include "Passport.h"
 
 int main() {
-    Aspirant a("Ivan", "AI in Games");
+    Aspirant a("Ivan", "Full-Stack developing");
     a.print();
 
     std::cout << "---" << std::endl;
