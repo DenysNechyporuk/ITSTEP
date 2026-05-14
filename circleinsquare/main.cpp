@@ -19,14 +19,14 @@ void main()
     cout << "  length :: " << s.length() << endl;
 
     CircleInSquare cis(3.0);
-    cout << "CircleInSquare (radius = 3) ::" << endl;
+    cout << "CircleInSquare ::" << endl;
     cout << "  radius      :: " << cis.getRadius() << endl;
     cout << "  side        :: " << cis.getSide() << endl;
     cout << "  totalLength :: " << cis.totalLength() << endl;
     cout << "  partSquare  :: " << cis.partSquare() << endl;
 
     cis.setSide(10.0);
-    cout << "After setSide(10) ::" << endl;
+    cout << "After setSide ::" << endl;
     cout << "  radius      :: " << cis.getRadius() << endl;
     cout << "  side        :: " << cis.getSide() << endl;
     cout << "  totalLength :: " << cis.totalLength() << endl;
