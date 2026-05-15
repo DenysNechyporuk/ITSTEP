@@ -1,0 +1,9 @@
+﻿  Animal.cpp
+  Cat.cpp
+  Dog.cpp
+  Hamster.cpp
+  main.cpp
+C:\Users\nechi\Desktop\Class\virtualmethodsCW\main.cpp(8,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Parrot.cpp
+  Generating Code...
+  virtualmethodsCW.vcxproj -> C:\Users\nechi\Desktop\Class\ITSTEP\x64\Debug\virtualmethodsCW.exe
